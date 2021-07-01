@@ -1,0 +1,13 @@
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/assets/img/black_piece.png
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/assets/img/chess1.png
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/assets/img/chess2.png
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/assets/img/white_piece.png
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/assets/lottie/chess.json
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Hans/Developpement/Flutter/battle_chess/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
