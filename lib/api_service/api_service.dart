@@ -3,7 +3,7 @@ import 'package:battle_chess/models/user.dart';
 import 'package:dio/dio.dart';
 
 class ApiService {
-  String baseUrl = 'xxxxx';
+  String baseUrl = 'http://sxbn.org:8080';
   String? token;
 
   Future<bool> auth(String login, String password) async {
